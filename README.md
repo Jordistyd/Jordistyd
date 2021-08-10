@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on fun cool open source projects
 - 📫 How to reach me jordi.styd@gmail.com
 
+**My Stats**
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Jordistyd&count_private=true&theme=tokyonight&showicons=true)]()
 
